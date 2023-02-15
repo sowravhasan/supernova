@@ -45,6 +45,9 @@ hr {
 .section-header {
   margin-bottom: 50px;
 }
+.blue-color {
+  color: #429DD0;
+}
 .section-header .section-title {
   font-size: 44px;
   color: #4F4F4F;
@@ -261,7 +264,7 @@ background: #343434;
   color: #000;
 }
 #hero-banner{
-  background: #F7F7F7 url('../images/banner/gg.png') no-repeat 100% bottom;
+  background: #F7F7F7 url('../images/banner/banner.jpg') no-repeat 100% bottom;
   background-size: cover; 
   background-position: center center;
   }
@@ -298,6 +301,9 @@ background: #343434;
 #contact-us .section-header{
   margin-top:100px;
 }
+#contact-us .section-header h2 {
+    color: #429DD0;
+}
 #contact{
   margin-bottom: 100px;
 }
@@ -314,7 +320,7 @@ background: #343434;
 	padding-bottom: 10px;
 }
 .contact-address ul li a{
-    color: #000;
+    color: #429DD0;
 }
 
 .contact-address li {
